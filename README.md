@@ -1,12 +1,32 @@
-# `3Karma - Decentralised Domain Credit Rating ⚡`
+# `3Karma ⚡`
 
 ![karma](public/karma.png)
 
-This project would allow Website to receive Credit Rating from another Website, it enables a new Dimension of Credit Rating between Website. 
-
-[Live App - 3karma.netlify.app ](3karma.netlify.app)
+Decentralised Domain Credit Rating
 
 
+### MOTIVATION
+Website Review/Rating are done by Internet User on Web2 World, it would be open a new possibilities if we can make Website Review/Rating are done By another Website. 
+
+### LIVE APP
+https://3karma.netlify.app
+
+### APPLICATION DEMO
+[VIDEO DEMO](https://drive.google.com/open?id=1iFnVID2jtnmBxT7-fqz1QW-gfcT4OfZj&authuser=raqrobby%40gmail.com&usp=drive_fs)
+
+### TECHNOLOGY USED
+- web3modal
+- unstoppabledomain
+- Solidity
+- Polygon
+![unstoppable](https://docs.unstoppabledomains.com/images/logo.png)
+
+
+
+#### CONTACT
+Person of contact in case there are any questions
+Discord ID 
+##### 0xMatoa
 
 ### Getting Started 🚀
 
@@ -31,6 +51,9 @@ yarn serve
 ```
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/byre54/3karma)
+
+
+
 
 #### BUY ME A COFFEE
 0x7342c7d7B8D0aE7FeCe192a15F5Ba5243dcCA45F
