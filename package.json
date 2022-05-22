@@ -1,0 +1,37 @@
+{
+  "name": "3karma",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@braid/vue-formulate": "^2.5.2",
+    "@uauth/js": "^1.1.0",
+    "@uauth/web3modal": "^1.1.0",
+    "@walletconnect/web3-provider": "^1.7.8",
+    "rollup-plugin-polyfill-node": "^0.9.0",
+    "vue": "^3.2.2",
+    "vue-router": "^4.0.12",
+    "web3": "^1.7.3",
+    "web3modal": "^1.9.7"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.4.0",
+    "@heroicons/vue": "^1.0.3",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/tailwindcss": "^2.2.1",
+    "@vitejs/plugin-vue": "^1.4.0",
+    "@vue/compiler-sfc": "^3.2.2",
+    "autoprefixer": "^10.4.7",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.6.14"
+  }
+}
