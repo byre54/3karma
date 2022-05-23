@@ -1,6 +1,6 @@
-# `WEB3KARMA ⚡`
+# `⚡⚡⚡ WEB3KARMA ⚡⚡⚡`
 
-![karma](public/karma.png)
+&nbsp; &nbsp; &nbsp; ![karma](public/karma.png)
 
 # DECENTRALIZED DOMAIN CREDIT RATING
 
