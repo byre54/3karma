@@ -1,8 +1,8 @@
-# `3Karma ⚡`
+# `3KARMA ⚡`
 
 ![karma](public/karma.png)
 
-Decentralised Domain Credit Rating
+## Decentralised Domain Credit Rating
 
 
 ### MOTIVATION
@@ -20,8 +20,7 @@ https://3karma.netlify.app
 
 #### CONTACT
 Person of contact in case there are any questions
-Discord ID 
-##### 0xMatoa
+Discord ID *0xMatoa*
 
 ### DEPLOY  🚀
 
